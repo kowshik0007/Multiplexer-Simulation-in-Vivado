@@ -1,15 +1,14 @@
 ## SIMULATION AND IMPLEMENTATION OF LOGIC GATES
 
 ## AIM:
-```
+
 To design and simulate a 4:1 Multiplexer (MUX) using Verilog HDL in four different modeling styles—Gate-Level, Data Flow, Behavioral, and Structural—and to verify its functionality through a testbench using the Vivado 2023.1 simulation environment. The experiment aims to understand how different abstraction levels in Verilog can be used to describe the same digital logic circuit and analyze their performance.
-```
+
 ## APPARATUS REQUIRED:
 ```
 Vivado 2023.1
 ```
 ## Procedure
-```
 1. Launch Vivado
 Open Vivado 2023.1 by double-clicking the Vivado icon or searching for it in the Start menu.
 2. Create a New Project
@@ -54,7 +53,7 @@ Take screenshots of the waveform window and include them in your lab report to d
 You can include the timing diagram from the simulation window showing the correct functionality of the 4:1 MUX across different select inputs and data inputs.
 10. Close the Simulation
 Once done, close the simulation by going to Simulation → "Close Simulation".
-```
+
 ## Logic Diagram
 
 ![image](https://github.com/user-attachments/assets/d4ab4bc3-12b0-44dc-8edb-9d586d8ba856)
@@ -174,8 +173,7 @@ endmodule
 ![WhatsApp Image 2024-10-17 at 18 16 36_59418495](https://github.com/user-attachments/assets/60538298-8e9f-4d08-a82b-3ccc2ce57fd3)
 
 ## Conclusion:
-```
+
 In this experiment, a 4:1 Multiplexer was successfully designed and simulated using Verilog HDL across four different modeling styles: Gate-Level, Data Flow, Behavioral, and Structural. The simulation results verified the correct functionality of the MUX, with all implementations producing identical outputs for the given input conditions.
-```
 
   
